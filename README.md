@@ -8,4 +8,4 @@ With the metrics in hand we segmented the clients accordingly with their scores.
 
 At the end I show 3 examples of clients that could have been better treated if we had their class beforehand.
 
-![CLIENT 1](https://github.com/[HigorNunesM]/[costumer-segmentation]/blob/[main]/client 1 plot.png?raw=true)
+![CLIENT 1](https://github.com/[HigorNunesM]/[costumer-segmentation]/blob/[main]/client%201%20plot.png?raw=true)
